@@ -7,7 +7,7 @@
 ### copy this project by running command
 
 ```bash
-git clone https://github.com/ongraphpythondev/selenium-project
+git clone  'https://github.com/ongraphpythondev/selenium-project'
 ```
 
 ### for run this project you have to do run this command
