@@ -1,6 +1,10 @@
 #Description
 ##This is an instagram automation project
 ####This project takes username and password and open your firefox browser and login in your instagram account and take screenshot of your news feed
+##copy this project by running command
+```bash
+git clone https://github.com/ongraphpythondev/selenium-project
+```
 ###for run this project you have to do run this command
 ```bash
 pip install requirment.txt
