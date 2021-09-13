@@ -13,7 +13,7 @@ git clone https://github.com/ongraphpythondev/selenium-project
 ### for run this project you have to do run this command
 
 ```bash
-pip install requirment.txt
+pip install requirements.txt
 ```
 
 ## Download firefox link "https://github.com/mozilla/geckodriver/releases"
