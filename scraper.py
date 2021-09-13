@@ -20,6 +20,6 @@ def scraper(username, password):
 
 
 if __name__ == "__main__":
-    username = input("Enter your instagram username")
-    password = input("Enter your instagram password")
+    username = input("Enter your instagram username :\n")
+    password = input("Enter your instagram password:\n")
     scraper(username, password)
