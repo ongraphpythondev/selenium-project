@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 def scraper(username, password):
-    driver = webdriver.Firefox(executable_path='/home/sanjay/Desktop/selenium_project/geckodriver')
+    driver = webdriver.Firefox(executable_path='< driver's path >')
     # give here firefox path where it is installed
     driver.get("https://www.instagram.com")
     driver.implicitly_wait(30)
