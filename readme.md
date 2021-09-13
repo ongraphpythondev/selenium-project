@@ -21,7 +21,7 @@ pip install requirment.txt
 After downloading the firefox you have to give the path where this driver is installed
 you can give absolute path or copy this driver in the same directory and right this file's name
  
- **"<your _path>"
+ <your _path>'
 
 After giving path , just run this
 ```bash
