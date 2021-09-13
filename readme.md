@@ -22,6 +22,8 @@ After downloading the firefox you have to give the path where this driver is ins
 you can give absolute path or copy this driver in the same directory and right this file's name
  
  '< your _path >'
+ 
+ C:\program|user\geckodriver
 
 After giving path , just run this
 ```bash
