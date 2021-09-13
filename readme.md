@@ -8,7 +8,7 @@
 
 ```bash
 git clone https://github.com/ongraphpythondev/selenium-project
-
+```
 ### for run this project you have to do run this command
 
 ```bash
@@ -19,10 +19,6 @@ pip install requirements.txt
 
 After downloading the firefox you have to give the path where this driver is installed
 you can give absolute path or copy this driver in the same directory and right this file's name
- 
- '< your _path >'
- 
- C:\program|user\geckodriver
 
 After giving path , just run this
 ```bash
