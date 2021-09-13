@@ -10,8 +10,9 @@ git clone https://github.com/ongraphpythondev/selenium-project
 pip install requirment.txt
 ```
 ##Download firefox link "https://github.com/mozilla/geckodriver/releases"
-After downloading the firefox you have to give the path where the firefox is installed
- After giving path just run
+After downloading the firefox you have to give the path where this driver is installed
+you can give absolute path or copy this driver in the same directory and right this file's name
+ After giving path , just run this
 ```bash
 python scraper.py
 ```
